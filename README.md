@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🦝
+Male - 1995 - Hamburg, Germany
 
-<!--
-**lennartalbrecht/lennartalbrecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work 💻
+Doing everything Shopware related at [Web Labels Webdesign GmbH](https://www.web-labels.de) since 2014.
+Things I work with or use: [Tech Stack](https://stackshare.io/lennartalbrecht/personal#stack)
 
-Here are some ideas to get you started:
+## Passion ✨
+Love and [support FC St. Pauli](http://www.gurkentruppe-svus.de) ☠️
+Street and landscape photography - rediscovered after too many years: [some of my pictures 📷](https://500px.com/p/LennartAlbrecht?view=photos)
+Collecting [shiny cardboard](https://collection.lennartalbrecht.de)
+Traveling of course ✈️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact ⌨️
+[mail](mailto:moin@lennartalbrecht.de)
